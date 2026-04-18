@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rakesh Das 👋
 
-<!--
-**RakeshDas7/RakeshDas7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MCA Student | Backend Developer (Java + Spring Boot)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about backend development
+- Learning Spring Boot & REST APIs
+- Interested in building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Java
+- Spring Boot
+- MySQL
+- HTML, CSS
+- Basic React.js
+
+## 📂 Projects
+- Food Ordering System (Spring Boot)
+- To-Do App (Java)
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/rakesh-das-633b39321/
+- Email: rakeshdas1477@gmail.com
